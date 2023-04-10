@@ -1,0 +1,9 @@
+1) Stowrzyć program który dostaje plik json z danymi z turniejów (lub po 
+prostu słownik) i na bazie tego tworzy posty.
+
+	1) Musi się nauczyć z bazy postów
+	2) Musi dodawać emotki
+	3) Może tworzyć grafiki (fb/insta)
+
+
+1) Program który tworzy posty na podstawie danych z pliku json/csv
