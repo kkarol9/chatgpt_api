@@ -16,3 +16,11 @@ chatgpt i nie wiem jakie ma możliwości i czego mogę oczekiwaać
 
 Obejrzyj filmiki z chatgpt api (szczególnie od sentexa) i będziesz 
 wiedział więcej.
+
+
+11.04
+
+Doszedłem do tego, ze tworzy w miare ladny post z wynikami, nazwami przeciwnikow, miejscem rozgrywaania turnieju. 
+
+Teraz chcę aby wgrać do niego pliki z .json, poniewaz do tej pory robi po po prostu odczytujac zmienne
+
