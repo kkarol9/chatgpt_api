@@ -7,3 +7,12 @@ prostu słownik) i na bazie tego tworzy posty.
 
 
 1) Program który tworzy posty na podstawie danych z pliku json/csv
+
+
+10.04
+
+Trocchę się dzisiaj pobawiłem, ale jeszcze nie do końca czuję to api 
+chatgpt i nie wiem jakie ma możliwości i czego mogę oczekiwaać 
+
+Obejrzyj filmiki z chatgpt api (szczególnie od sentexa) i będziesz 
+wiedział więcej.
