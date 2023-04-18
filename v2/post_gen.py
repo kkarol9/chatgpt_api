@@ -2,7 +2,7 @@ import openai
 import random
 
 # set up the OpenAI API key
-openai.api_key = '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'
+openai.api_key = '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'
 
 # define the base post text
 base_post_text = "Uczestniczyłem w turnieju {tournament_name} w {city}, {country}. Grałem na nawierzchni {surface}. W tym turnieju rozegrałem {num_matches} mecze, w których {result_text}em. Wyniki moich meczów: {match_results_text}. Przegrałem z {opponent_names}."
@@ -52,3 +52,11 @@ tournaments = [
 
 for tournament in tournaments:
     create_tennis_post(**tournament)
+
+"""
+prompt:
+Hej, czy pomożesz mi stworzyć post na facebooka podsumowujący mój udział w turnieju tenisowym? 
+Turniej był rozgrywany w {miejscowość} w {kraj}. Był to turniej {typ} na nawierzchni {nawierzchnia}. 
+W {runda} {win/los}{wynik} z {imie i nazwisko}, w {runda} {win/loss}{wynik} z {imie i nazwisko},  
+w {runda} {win/loss} z {imie_nazwisko} {wynik}. Był to udany występ dzięki któremu zdobyłem trzy punkty do rankingu.
+"""
