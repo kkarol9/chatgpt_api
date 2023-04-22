@@ -16,7 +16,3 @@ reply_content = completion.choices[0].message.content
 print(reply_content)
 
 
-message_history = []
-# What is the moon's circumference in km?
-user_input = input("> ")
-print("User's input was: ", user_input)
