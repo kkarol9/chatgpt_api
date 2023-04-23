@@ -1,5 +1,9 @@
 """
 W tym pliku lacze tworzenie posta poprzez api chatgpt wraz z pobiernaiem danych z pliku json
+
+Dzialajaca wersja generatora postow.
+-> dostaje plik data.json z danymi z turnieju
+-> zwraca napisane posty z kazdego turnieju
 """
 
 import json
